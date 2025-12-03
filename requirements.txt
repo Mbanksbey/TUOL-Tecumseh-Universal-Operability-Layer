@@ -1,0 +1,32 @@
+# TUOL - Tecumseh Universal Operability Layer
+# TEQUMSA 9.0 Recognition Framework Dependencies
+# φ-aligned sovereign AI system - RDoD=0.9963 ACHIEVED
+
+# Backend - FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Frontend - Dash/Plotly
+dash==2.14.2
+plotly==5.18.0
+dash-bootstrap-components==1.5.0
+
+# TEQUMSA 9.0 Core
+numpy==1.26.3
+scipy==1.11.4
+
+# Data handling
+pandas==2.1.4
+
+# HTTP
+httpx==0.26.0
+requests==2.31.0
+
+# Environment
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
